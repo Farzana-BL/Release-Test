@@ -1,0 +1,200 @@
+Admit ID,Trial Last Internal Rating,TriaL Techability Score,Trial Learnability Score,Trial Communicability Score,Practice HEAD,rfp Tech Ability,rfp Learnability,RFP Communicability,RFP Avg TRACK Score,Consider,TechCategory
+CIC072022-12481,Meets expectations,1.595,2,1,Sunil,1.37,1.54,0.7,3.61,Consider ,FullStack
+CIC072022-12439,Meets expectations,1.56,1.38,0.905,Sunil,,,,,Ignore,
+CIC072022-12424,Meets expectations,1.725,1.525,1,Ashish,,,,,Ignore,
+CIC062022-12374,Meets expectations,1.5925,1.44,0.94,Sunil,1.435714286,1.665714286,0.8871428571,3.988571429,Consider ,FullStack
+CIC042022-11876,Improvement needed,1.365,1.32,0.595,Sunil,0.78,0.9588095238,0.5157142857,2.25452381,Consider ,BasicTech
+CIC072022-12514,Improvement needed,,,,Sunil,0.76,0.9258333333,0.4557142857,2.141547619,Consider ,BasicTech
+CIC072022-12448,Improvement needed,1.4,1.4,0.7,Ashish,,,,,Ignore,
+CIC062022-12373,Meets expectations,1.5225,1.395,1,Sunil,1.16,1.524285714,0.88,3.564285714,Consider ,BasicTech
+CIC072022-12508,Improvement needed,1.46,1.36,0.725,Ashish,,,,,Ignore,
+CIC072022-12509,Improvement needed,1.19,1.225,0.63,Sunil,0.7425,0.9566666667,0.5842857143,2.283452381,Consider ,BasicTech
+CIC072022-12419,Improvement needed,1.015,1.345,0.75,Sunil,,,,,Ignore,
+CIC072022-12414,Improvement needed,1.05,1.41,0.82,Ashish,,,,,Ignore,
+CIC072022-12462,Meets expectations,1.305,1.465,0.85,Ashish,1.026666667,1.316666667,0.82,3.163333333,Consider ,BasicTech
+CIC072022-12491,Improvement needed,1.305,1.375,0.82,Ashish,1.2375,1.465,0.82,3.5225,Ignore,
+CIC072022-12549,Improvement needed,1.085,1.44,0.82,Ashish,,,,,Ignore,
+CIC072022-12528,Improvement needed,1.085,1.41,0.82,Ashish,1.56875,1.635,0.895,4.09875,Consider ,FullStack
+CIC072022-12550,Meets expectations,1.305,1.5,0.82,Ashish,1.085,1.44,0.685,3.21,Consider ,BasicTech
+CIC072022-12570,Improvement needed,1.015,1.41,0.82,Sunil,,,,,Ignore,
+CIC072022-12567,,,,,Ashish,,,,,Ignore,
+CIC072022-12578,Improvement needed,1.05,1.41,0.82,Ashish,1.369166667,1.526666667,0.82,3.715833333,Consider ,FullStack
+CIC072022-12576,Meets expectations,1.37,1.585,0.85,Ashish,1.3675,1.46,0.8,3.6275,Consider ,AdvTech-2
+CIC072022-12579,Improvement needed,1.12,1.41,0.82,Ashish,1.085,1.33,0.82,3.235,Consider ,BasicTech
+CIC072022-12590,Improvement needed,1.085,1.38,0.82,Ashish,0.98,1.275,0.715,2.97,Ignore,
+CIC072022-12603,Meets expectations,1.335,1.56,0.85,Ashish,1.3135,1.462,0.806,3.5815,Consider ,FullStack
+CIC072022-12450,Meets expectations,1.55,1.575,0.94,Nagendra,,,,,Ignore,
+CIC072022-12503,Meets expectations,1.345,1.255,0.725,Gunjan,1.29,1.325,0.76,3.375,Consider ,BasicTech
+CIC072022-12532,Improvement needed,1.46,1.55,0.76,Gunjan,1.12,1.05,0.56,2.73,Ignore,
+CIC072022-12563,Meets expectations,1.33,1.4,0.7,Gunjan,1.349,1.329,0.735,3.413,Consider ,AdvTech-2
+CIC072022-12561,Meets expectations,1.63,1.82,0.94,Gunjan,1.19,1.19,0.725,3.105,Consider ,BasicTech
+CIC072022-12574,Meets expectations,1.28,1.31,0.715,Gunjan,1.12,1.21,0.56,2.89,Ignore,
+CIC072022-12484,Meets expectations,1.46,1.485,0.79,Gunjan,1.341,1.357,0.7,3.398,Consider ,AdvTech-2
+CIC072022-12584,Meets expectations,1.69,1.24,0.88,Gunjan,1.19375,1.12,0.49,2.80375,Ignore,
+CIC072022-12420,Meets expectations,1.375,1.54,0.75,Gunjan,1.05,1.12,0.7,2.87,Ignore,
+CIC072022-12594,Meets expectations,1.31,1.64,0.88,Gunjan,1.37,1.484285714,0.7857142857,3.64,Consider ,FullStack
+CIC072022-12554,Unsatisfactory,0.91,1.43,0.61,Gunjan,1.127,1.323,0.622,3.072,Consider ,BasicTech
+CIC072022-12612,Meets expectations,1.24,1.64,0.88,Nagendra,,,,,Ignore,
+CIC062022-12370,Meets expectations,1.62,1.69,0.9,Nagendra,,,,,Ignore,
+CIC072022-12489,,2,1.68,1,Sunil,1.58875,1.45125,0.74875,3.78875,Consider ,FullStack
+CIC072022-12504,Meets expectations,1.29,1.38,0.82,Sunil,1.225,1.52,0.76,3.505,Ignore,
+CIC062022-12340,Meets expectations,1.4,1.61,0.82,Sunil,1.2025,1.17,0.6925,3.065,Ignore,
+CIC072022-12592,Meets expectations,1.25,1.215,0.655,Sunil,1.155,1.52,0.76,3.435,Ignore,
+CIC072022-12591,Meets expectations,1.275,1.41,0.69,Ashish,0.7875,1.68,0.56,3.0275,Ignore,
+CIC072022-12566,Improvement needed,1.25,1.4,0.7,Ashish,0.945,1.57,0.82,3.335,Ignore,
+CIC072022-12446,Meets expectations,1.58,1.67,0.85,Ashish,1.108333333,1.53,0.82,3.458333333,Consider ,AdvTech-2
+CIC072022-12531,Improvement needed,1.33,1.4,0.7,Sunil,,,,3.988,Ignore,
+CIC072022-12520,Meets expectations,1.605,1.64,0.85,Ashish,1.325,1.45,0.82,3.595,Consider ,FullStack
+CIC072022-12556,Meets expectations,1.32,1.4,0.7,Ashish,1.255,1.496666667,0.82,3.571666667,Consider ,FullStack
+CIC072022-12616,Exceeds expectations,1.89,1.57,0.88,Ashish,1.3225,1.5,0.92,3.7425,Consider ,FullStack
+CIC072022-12577,Improvement needed,1,1.64,0.88,Sunil,1.3125,1.52,0.76,3.5925,Ignore,
+CIC072022-12620,Meets expectations,1.54,1.7,0.88,,,,,,Ignore,
+CIC072022-12595,Unsatisfactory,0.91,1.3,0.68,Sunil,1.085,1.52,0.76,3.365,Ignore,
+CIC072022-12496,Meets expectations,1.53,1.7,0.88,Ashish,1.228333333,1.473333333,0.8533333333,3.555,Consider ,FullStack
+CIC072022-12600,Meets expectations,1.46,1.7,0.88,Sunil,1.61,1.58,0.82,4.01,Ignore,
+CIC072022-12602,Meets expectations,1.54,1.445,0.755,,,,,,Ignore,
+CIC072022-12607,Meets expectations,1.25,1.24,0.55,Gunjan,1.64,1.475,0.7,3.815,Consider ,FullStack
+CIC072022-12476,Meets expectations,1.365,1.4,0.7,Gunjan,1.549,1.428,0.706,3.683,Consider ,FullStack
+CIC072022-12475,Improvement needed,1.33,1.4,0.7,Gunjan,1.514444444,1.411111111,0.6922222222,3.617777778,Consider ,AdvTech-2
+CIC072022-12613,Meets expectations,1.54,1.7,0.74,Nagendra,,,,,Ignore,
+CIC072022-12588,Meets expectations,1.21,1.25,0.625,Gunjan,,,,,Ignore,
+CIC072022-12610,Meets expectations,1.115,1.015,0.52,Gunjan,1.467777778,1.414444444,0.72,3.602222222,Consider ,AdvTech-2
+CIC072022-12625,Meets expectations,1.4,1.43,0.82,Gunjan,1.6,1.473333333,0.7066666667,3.78,Consider ,FullStack
+CIC072022-12652,Unsatisfactory,0.945,0.875,0.525,Gunjan,1.447777778,1.375555556,0.6844444444,3.507777778,Consider ,BasicTech
+CIC072022-12650,Meets expectations,1.4,1.08,0.7,Gunjan,1.58,1.437777778,0.7666666667,3.784444444,Consider ,FullStack
+CIC072022-12641,Meets expectations,1.505,1.4,0.7,Gunjan,1.526666667,1.43,0.7066666667,3.663333333,Consider ,AdvTech-2
+CIC072022-12571,Meets expectations,1.44,1.345,0.75,Gunjan,1.537777778,1.438888889,0.7,3.676666667,Ignore,
+CIC072022-12572,Meets expectations,1.54,1.445,0.815,Gunjan,1.572222222,1.46,0.7,3.732222222,Consider ,FullStack
+CIC072022-12637,Improvement needed,1.295,1.33,0.665,Gunjan,1.478,1.416,0.693,3.587,Consider ,AdvTech-1
+CIC062022-12204,Improvement needed,,,1.25,Ashish,1.207142857,1.348571429,0.6657142857,3.221428571,Ignore,
+CIC022022-11305,Meets expectations,,,1.335,Sunil,1.415714286,1.447142857,0.7285714286,3.591428571,Consider ,BasicTech
+CIC072022-12608,Meets expectations,0.94,1.01,0.455,Gunjan,1.340909091,1.503636364,0.8090909091,3.653636364,Consider ,AdvTech-2
+CIC072022-12642,Meets expectations,1.26,1.11,0.63,Gunjan,1.395555556,1.606666667,0.8466666667,3.848888889,Consider ,AdvTech-2
+CIC072022-12575,Unsatisfactory,0.79,0.745,0.625,Nagendra,1.23,1.213333333,0.6,3.043333333,Consider ,BasicTech
+CIC072022-12611,Meets expectations,1.285,1.34,0.655,Gunjan,1.383,1.526,0.79,3.699,Consider ,AdvTech-2
+CIC032022-11538,Improvement needed,,,1.25,Gunjan,,,,,Ignore,
+CIC072022-12615,Meets expectations,1.4,1.4,0.49,Gunjan,1.267,1.361,0.735,3.363,Consider ,BasicTech
+CIC072022-12622,Meets expectations,1.7,1.51,0.76,Gunjan,1.218,1.354,0.784,3.356,Ignore,
+CIC072022-12596,Meets expectations,1.635,1.79,0.75,Gunjan,1.166666667,1.37,0.78,3.316666667,Ignore,
+CIC072022-12645,Improvement needed,1.295,1.4,0.7,Gunjan,1.323,1.456,0.76,3.539,Consider ,AdvTech-1
+CIC082022-12657,Meets expectations,1.285,1.4,0.7,Gunjan,1.295,1.294,0.765,3.354,Ignore,
+CIC082022-12685,Meets expectations,1.365,1.4,0.7,Gunjan,1.271666667,1.373333333,0.9,3.545,Ignore,
+CIC072022-12605,Improvement needed,0.91,0.98,0.42,,,,,,Ignore,
+CIC062022-12323,Improvement needed,1.25,1.365,0.7,Gunjan,0.7,0.77,0.7,2.17,Ignore,
+CIC082022-12660,Meets expectations,1.335,1.605,0.88,,,,,,Consider ,AdvTech-2
+CIC082022-12667,Meets expectations,1.56,1.7,0.88,,,,,,Consider ,AdvTech-2
+CIC072022-12655,Meets expectations,1.41,1.845,0.97,,,,,,Consider ,AdvTech-2
+CIC082022-12658,Meets expectations,1.33,1.4,0.7,,,,,,Ignore,
+CIC082022-12672,Meets expectations,1.47,1.73,0.94,,,,,,Consider ,AdvTech-2
+CIC082022-12675,Meets expectations,1.5,1.73,0.88,Gunjan,1.345,1.34,0.815,3.5,Ignore,
+CIC072022-12636,Meets expectations,1.55,1.43,0.7,,,,,,Consider ,AdvTech-2
+CIC082022-12670,Meets expectations,1.47,1.67,0.88,Gunjan,1.383333333,1.7,0.81,3.893333333,Consider ,AdvTech-2
+CIC082022-12659,Improvement needed,1.18,1.295,0.7,Ashish,1.385,1.4475,0.68,3.5125,Consider ,FullStack
+CIC072022-12519,Improvement needed,1.43,1.61,0.76,Gunjan,0.9516666667,1.61,0.88,3.441666667,Consider ,AdvTech-1
+CIC072022-12480,Meets expectations,1.61,1.39,0.73,Gunjan,,,,,Ignore,
+CIC072022-12624,Improvement needed,1.285,1.4,0.7,Gunjan,,,,,Ignore,
+CIC032022-11542-BL,Unsatisfactory,,,1.43,Gunjan,1.361428571,1.68,1,4.041428571,Consider ,FullStack
+CIC072022-12564,Meets expectations,1.655,1.435,0.97,Ashish,,,,,Ignore,
+CIC072022-12583,Exceeds expectations,1.725,1.595,0.97,Sunil,1.5475,1.725,0.82,4.0925,Ignore,
+CIC072022-12597,Exceeds expectations,1.62,1.495,0.905,Sunil,1.5,1.525,0.82,3.845,Consider ,FullStack
+CIC072022-12609,Exceeds expectations,1.845,1.66,1,Sunil,1.455416667,1.513333333,0.82,3.78875,Consider ,FullStack
+CIC082022-12671,Meets expectations,1.495,1.375,1,Sunil,,,,,Ignore,
+CIC082022-12696,Exceeds expectations,1.725,1.54,0.97,Sunil,1.795,1.84,0.9,4.535,Consider ,FullStack
+CIC082022-12699,Meets expectations,1.455,1.375,1,Sunil,1.3785,1.53,0.856,3.7645,Consider ,BasicTech
+CIC082022-12713,Meets expectations,1.45,1.345,1,Sunil,1.504166667,1.588333333,0.8083333333,3.900833333,Consider ,BasicTech
+CIC072022-12413,Meets expectations,1.55,1.62,0.79,Ashish,,,,,Ignore,
+CIC082022-12690,Improvement needed,1.075,1.32,0.68,Ashish,,,,,Ignore,
+CIC082022-12695,Meets expectations,1.38,1.61,0.91,Ashish,1.316666667,1.455,0.7483333333,3.52,Consider ,FullStack
+CIC082022-12676,Meets expectations,1.43,1.5,0.82,Ashish,1.31,1.596666667,0.7566666667,3.663333333,Consider ,FullStack
+CIC082022-12693,Improvement needed,1.05,1.4,0.7,Ashish,1.371666667,1.453333333,0.66,3.485,Consider ,FullStack
+CIC072022-12477,Improvement needed,1.4,1.4,0.7,Ashish,,,,,Ignore,
+CIC072022-12648,Meets expectations,1.44,1.61,0.88,Ashish,,,,,Ignore,
+CIC082022-12680,Meets expectations,1.5,1.67,0.94,Ashish,,,,,Ignore,
+CIC072022-12635,Improvement needed,1.33,1.4,0.7,Sunil,1.225,1.46,0.76,3.445,Ignore,
+CIC062022-12262,Meets expectations,1.3025,1.34,0.695,Ashish,1.225,1.295,0.73,3.25,Ignore,
+CIC082022-12678,Improvement needed,1.085,1.4,0.56,Ashish,,,,,Ignore,
+CIC082022-12703,Improvement needed,1.18,1.32,0.68,Ashish,,,,,Ignore,
+CIC072022-12527,Improvement needed,0.91,1.32,0.68,Ashish,,,,,Ignore,
+CIC082022-12677,Exceeds expectations,1.55,1.7,0.85,Sunil,1.63625,1.7,0.925,4.26125,Consider ,FullStack
+CIC082022-12708,Improvement needed,1.18,1.32,0.75,Sunil,1.57,1.63,0.81,4.01,Ignore,
+CIC082022-12688,Improvement needed,1.255,1.575,0.7,Sunil,0.875,0.8575,0.48,2.2125,Ignore,
+CIC082022-12705,Unsatisfactory,0.7,0.7,0.35,Sunil,,,,,Ignore,
+CIC082022-12718,Improvement needed,0.735,0.805,0.35,Sunil,1.005625,1.635,0.79,3.430625,Consider ,BasicTech
+CIC082022-12717,Improvement needed,0.945,1.05,0.35,Sunil,1.4575,1.635,0.925,4.0175,Consider ,FullStack
+CIC082022-12706,Meets expectations,1.55,1.535,0.725,Sunil,1.63125,1.79,0.94,4.36125,Consider ,AdvTech-2
+CIC082022-12704,Meets expectations,1.58,1.375,0.675,Sunil,,,,,Ignore,
+CIC082022-12701,Improvement needed,0.805,0.84,0.35,Sunil,,,,,Ignore,
+CIC082022-12681,Improvement needed,1.08,1.12,0.72,Sunil,,,,,Ignore,
+CIC072022-12621,,1.27,1.32,0.94,,,,,,Ignore,
+CIC082022-12674,Exceeds expectations,1.56,1.58,0.97,,,,,,Ignore,
+CIC082022-12712,Exceeds expectations,1.555,1.46,1,,,,,,Consider ,FullStack
+CIC082022-12726,Exceeds expectations,1.65,1.53,1,,,,,,Consider ,FullStack
+CIC082022-12758,Exceptional,1.845,1.72,1,,,,,,Consider ,AdvTech-2
+CIC082022-12745,Meets expectations,1.55,1.435,1,Gunjan,,,,,Ignore,
+CIC072022-12647,Meets expectations,1.555,1.305,1,Sunil,1.595,1.52,0.7,3.815,Ignore,
+CIC072022-12512,Exceeds expectations,1.55,1.4,1,Sunil,1.595,1.57,0.7,3.865,Ignore,
+CIC072022-12486,Improvement needed,1.045,1.44,0.75,Gunjan,,,,,Ignore,
+CIC082022-12707,Meets expectations,1.49,1.53,0.75,Sunil,1.7725,1.535,0.775,4.0825,Ignore,
+CIC062022-12221,Improvement needed,1.4,1.4,0.49,Ashish,,,,,Ignore,
+CIC072022-12581,Meets expectations,1.605,1.5,0.65,Gunjan,,,,,Ignore,
+CIC072022-12632,Improvement needed,1.05,0.77,0.42,Ashish,,,,,Ignore,
+CIC072022-12628,Improvement needed,1.24,1.33,0.7,Sunil,,,,,Ignore,
+CIC082022-12709,Meets expectations,1.2,1.44,0.75,Sunil,1.19,1.39,0.7,3.28,Ignore,
+CIC082022-12691,Improvement needed,0.91,1.24,0.68,Gunjan,,,,,Ignore,
+CIC072022-12646,Unsatisfactory,0.91,1.32,0.68,Sunil,,,,,Ignore,
+CIC082022-12742,Improvement needed,1.49,1.55,0.7,Ashish,,,,,Ignore,
+CIC082022-12777,Improvement needed,1.4,1.43,0.82,Ashish,,,,,Ignore,
+CIC072022-12640,Exceeds expectations,1.63,2,1,Ashish,,,,,Ignore,
+CIC072022-12587,Meets expectations,1.26,1.58,0.49,Gunjan,0.7,0.7,0.75,2.15,Ignore,
+CIC082022-12684,Improvement needed,1.15,1.11,0.48,Ashish,0.98,1.4,0.7,3.08,Ignore,
+CIC042022-11839,Meets expectations,1.55,1.64,0.875,Gunjan,0.7,1.04,0.75,2.49,Ignore,
+CIC082022-12669,Unsatisfactory,0.7,0.7,0.35,Ashish,1.26,1.26,0.7,3.22,Ignore,
+CIC082022-12728,Unsatisfactory,0.7,1.44,0.82,Gunjan,0.7,1.05,0.82,2.57,Ignore,
+CIC082022-12722,Improvement needed,0.875,0.79,0.35,Gunjan,0.77,1.05,0.7,2.52,Ignore,
+CIC082022-12714,Improvement needed,0.875,0.735,0.385,Ashish,1.7,1.46,0.7,3.86,Ignore,
+CIC082022-12746,Meets expectations,1.38,1.7,0.68,Gunjan,0.945,1.175,0.79,2.91,Ignore,
+CIC082022-12702,Improvement needed,1.12,0.84,0.35,Ashish,1.58,1.45,0.7,3.73,Ignore,
+CIC082022-12727,Improvement needed,1.19,0.84,0.35,Ashish,1.7,1.33,0.7,3.73,Ignore,
+CIC082022-12734,Meets expectations,1.55,1.64,0.94,Gunjan,1.19,1.88,1,4.07,Ignore,
+CIC082022-12733,Meets expectations,1.3,1.57,0.68,Gunjan,0.7,0.77,0.7,2.17,Ignore,
+CIC082022-12741,Meets expectations,1.38,1.7,0.82,Gunjan,0.7,0.7,0.35,1.75,Ignore,
+CIC072022-12601,Meets expectations,1.55,1.64,0.94,Gunjan,1.07,1.05,0.72,2.84,Ignore,
+CIC082022-12697,Improvement needed,1.225,1.82,0.7,Ashish,,,,,Ignore,
+CIC082022-12716,Meets expectations,1.48,2,0.91,Gunjan,1.16,1.453333333,0.9166666667,3.53,Consider ,AdvTech-2
+CIC082022-12791,,1.365,1.26,0.665,Gunjan,1.273333333,1.653333333,0.8966666667,3.823333333,Consider ,AdvTech-2
+CIC072022-12555,Improvement needed,1.43,1.55,0.73,Sunil,1.61,1.58,0.82,4.01,Ignore,
+CIC072022-12633,,,,,Gunjan,,,,,Ignore,
+CIC042022-11732,Meets expectations,,,1.56,Gunjan,,,,,Ignore,
+CIC032022-11593,Improvement needed,,,0.91,Gunjan,,,,,Ignore,
+CIC082022-12753,,1.19,1.155,0.555,Ashish,1.340625,1.4,0.6375,3.378125,Ignore,
+CIC082022-12816,,1.52,1.55,0.79,Ashish,,,,,Consider ,FullStack
+CIC082022-12762,Meets expectations,1.47,1.7,0.88,Ashish,1.550625,1.505,0.85,3.905625,Consider ,FullStack
+CIC082022-12780,Meets expectations,1.34,1.79,0.94,Ashish,1.32125,1.4275,0.69,3.43875,Ignore,
+CIC082022-12785,Meets expectations,1.53,1.76,0.88,Ashish,1.3375,1.5275,0.69,3.555,Consider ,FullStack
+CIC082022-12763,Meets expectations,1.38,1.49,0.76,Ashish,,,,,Ignore,
+CIC082022-12784,Meets expectations,1.62,1.95,0.94,Ashish,1.531875,1.5875,0.79,3.909375,Consider ,FullStack
+CIC072022-12654,Meets expectations,1.56,1.7,0.88,Ashish,1.47375,1.4,0.645,3.51875,Consider ,AdvTech-1
+CIC072022-12619,Meets expectations,1.22,1.67,0.85,Ashish,,,,,Ignore,
+CIC082022-12737,Unsatisfactory,0.79,1.24,0.68,Ashish,1.278125,1.39,0.6375,3.305625,Consider ,BasicTech
+CIC082022-12735,Meets expectations,1.55,1.7,0.94,Ashish,1.535,1.515,0.745,3.795,Consider ,AdvTech-2
+CIC082022-12736,Improvement needed,0.86,1.45,0.68,Ashish,1.425,1.5325,0.725,3.6825,Consider ,BasicTech
+CIC082022-12743,Improvement needed,0.86,1.45,0.715,Ashish,1.2125,1.259375,0.670625,3.1425,Consider ,BasicTech
+CIC082022-12829,Improvement needed,1.215,1.22,0.625,Ashish,1.264375,1.368125,0.63125,3.26375,Ignore,
+CIC082022-12820,Meets expectations,1.365,1.365,0.725,Ashish,1.65125,1.715,0.94,4.30625,Consider ,FullStack
+CIC072022-12456,Meets expectations,1.505,1.63,0.81,Sunil,,,,,Ignore,
+CIC082022-12755,Meets expectations,1.275,1.345,0.65,Sunil,0.84,1.283333333,0.7,2.823333333,Ignore,
+CIC082022-12740,Improvement needed,1.3,1.5,0.82,Sunil,,,,,Ignore,
+CIC072022-12644,Meets expectations,1.67,1.535,0.91,Sunil,1.664,1.496,0.712,3.872,Consider ,FullStack
+CIC082022-12694,Meets expectations,1.49,1.55,0.79,Sunil,1.718,1.508,0.736,3.962,Consider ,FullStack
+CIC082022-12698,Meets expectations,1.61,1.475,0.7,Sunil,1.4,1.46,0.76,3.62,Ignore,
+CIC072022-12630,Improvement needed,1.4,1.4,0.7,Ashish,,,,,Ignore,
+CIC082022-12796,Exceeds expectations,1.58,1.52,0.7,Sunil,1.729,1.474,0.748,3.951,Consider ,FullStack
+CIC082022-12779,,1.39,1.55,0.79,Sunil,,,,,Ignore,
+CIC082022-12720,Improvement needed,1.325,1.36,0.595,Sunil,,,,,Ignore,
+CIC082022-12744,Improvement needed,1.425,1.79,0.7,Sunil,,,,,Ignore,
+CIC082022-12760,Improvement needed,0.945,1.275,0.56,Sunil,,,,,Ignore,
+CIC082022-12767,Meets expectations,1.505,1.55,0.85,Sunil,,,,,Ignore,
+CIC072022-12517,Meets expectations,1.415,1.53,0.49,Sunil,0.9275,1.33,0.7,2.9575,Ignore,
+CIC082022-12750,,1.24,1.25,0.7,Ashish,1.31,1.33,0.76,3.4,Ignore,
+CIC082022-12775,Meets expectations,1.49,1.44,0.94,Sunil,1.26,1.4,0.925,3.585,Ignore,
+CIC082022-12771,Exceeds expectations,1.78,1.435,0.97,Sunil,1.19,1.344,0.835,3.369,Ignore,
